@@ -1,0 +1,57 @@
+button {
+  background-color: #52B152;
+  height: 125px;
+  width: 120px;
+  border: #ffff 1px solid;
+  color: white;
+  font-size: 2em;
+  font-weight: lighter;
+}
+
+h2 {
+  background-color: #52B152;
+  height: 120px;
+  width: 357px;
+  margin-top: 0;
+  margin-left: 0;
+  text-align: right;
+  font-size: 4em;
+  color:white;
+  font-weight: lighter;
+}
+
+#equals {
+  margin-bottom: 0;
+}
+
+#first_row {
+  display: flex;
+  justify-content: center;
+  height: 120px;
+  padding-top: 100px;
+  ;
+}
+
+#second_row {
+  display: flex;
+  justify-content: center;
+}
+
+#third_row {
+  display: flex;
+  justify-content: center;
+}
+
+#fourth_row {
+  display: flex;
+  justify-content: center;
+}
+
+#fifth_row {
+  display: flex;
+  justify-content: center;
+}
+
+.operator {
+ background-color: #90EE90;
+}
